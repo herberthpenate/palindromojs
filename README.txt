@@ -1,0 +1,1 @@
+Para ejecutar el código, ingrese a index.html, ingrese pruebas y presione el botón.
